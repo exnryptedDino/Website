@@ -3,7 +3,6 @@ layout: default
 title: Appeals
 nav_order: 6
 has_children: true
-permalink: /appeals
 ---
 
 # Appeals 
