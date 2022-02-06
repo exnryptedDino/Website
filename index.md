@@ -1,3 +1,10 @@
+---
+layout: default
+title: Alliances
+nav_order: 0
+has_children: false
+---
+
 ## Welcome to [BloxWorld](https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about)!
 
 This support site contains guidelines, FAQs and other articles which can help answer your queries.
