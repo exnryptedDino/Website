@@ -7,4 +7,4 @@ permalink: /alliances
 ---
 
 # Alliances
-This section contains all information regarding alliances with BloxStreet.
+This section contains all information regarding alliances with BloxWorld.
