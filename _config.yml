@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+title: BloxWorld Support
+description: A hub for all things BloxWorld
+baseurl: "/"
+url: "https://support.bloxworld.park"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+aux_links:
+  "Group":
+    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+  "Store":
+    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+  "Training Center":
+    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+  "Quiz Center":
+    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+
+color_scheme: dark
+
+remote_theme: pmarsceill/just-the-docs
