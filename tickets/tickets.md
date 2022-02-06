@@ -2,8 +2,7 @@
 layout: default
 title: Tickets
 nav_order: 9
-has_children: true
-permalink: /tickets 
+has_children: true 
 ---
 
 
