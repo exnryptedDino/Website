@@ -50,11 +50,11 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Hinting for a promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
-| Using :view on an SHR | Verbal warning | Store Supervisor+ |
+| Using :view on an SHR | Verbal warning | Board Intern+ |
 | Faking a resignation | Verbal warning | Staff |
 | Lack of grammar | Verbal warning and then report to an SHR | High Ranks |
-| Lack of grammar | 3 verbal warnings and then a demotion one rank down | Team Leader - Store Manager |
-| Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
+| Lack of grammar | 3 verbal warnings and then a demotion one rank down | Lifeguard+ |
+| Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Board Intern+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
 | Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
@@ -64,7 +64,7 @@ Some things to note:
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Store Supervisor+ |
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Board Intern+ |
 | Trolling, spamming, or caps abuse | Blacklist | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
@@ -73,7 +73,7 @@ Some things to note:
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Reclaiming a rank once fired or blacklisted | Permanent ban | Staff |
 | Abusing the group shout | Permanent ban | High Ranks |
-| Free ranking | Permanent ban | Executive Assistant+ |
+| Free ranking | Permanent ban | Aquatic Board+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat | Blacklist / permanent ban | Staff |
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and staff blacklist, depending on the severity of the user's actions | High Ranks |
