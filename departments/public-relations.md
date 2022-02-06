@@ -10,10 +10,10 @@ Members of the Public Relations Department are listed below. If you have any que
 
 | Public Relations Department Members      | 
 |:-------------|
-| avnemone - Head Moderator | 
-| unsightvls - Head Moderator | 
-| vleuio - Senior Moderator |
-| ovllie - Senior Moderator |
-| Chvvrlie - Senior Moderator |
-| EclipseIcy - Senior Moderator |
-| pastxlmoonlixht - Junior Moderator |
+| N/A - Head Moderator | 
+| N/A - Head Moderator | 
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Junior Moderator |
