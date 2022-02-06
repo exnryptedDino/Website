@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Store Changelog
+title: Park Changelog
 parent: Changelogs
 nav_order: 1
 ---
