@@ -7,4 +7,4 @@ permalink: /departments
 ---
 
 # Departments
-Here you will find all members of our departments at BloxStreet. 
+BloxWorld Departments aren't setup, check back later!
