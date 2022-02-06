@@ -10,13 +10,13 @@ Members of the Staffing Department are listed below. If you have any questions, 
 
 | Staffing Department Members      | 
 |:-------------|
-| f1reworks - Head Moderator |
-| ZenobiaBaryanou - Head Moderator |
-| sincerelyyryan - Head Moderator |
-| Ieahvs - Senior Moderator |
-| vaenuh - Senior Moderator |
-| IiIyvss - Senior Moderator |
-| fatou_rocks - Senior Moderator |
-| blcsseds - Senior Moderator |
-| svruls - Senior Moderator |
-| KAIT0_KlD - Senior Moderator |
+| N/A - Head Moderator |
+| N/A - Head Moderator |
+| N/A - Head Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
+| N/A - Senior Moderator |
