@@ -9,7 +9,7 @@ nav_order: 1
 This page outlines all changes made to the park, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
 ### Build 3 (05/02/2022)
-{:.text-purple-000}
+{:.text-blue-000}
 
 Notes:
 Game Reverted to Build 2
