@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Alliances
-nav_order: 1
-has_children: false
+title: Welcome
+nav_order: 0
+has_children: true
 ---
 
 ## Welcome to [BloxWorld](https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about)!
