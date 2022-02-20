@@ -5,7 +5,7 @@ parent: Guides
 nav_order: 3
 ---
 
-# BloxWorld Admin Guide
+# BloxyBay Admin Guide
 {: .no_toc }
 
 ## Table of contents
@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-BloxWorld's administrative system is one of the features that help run the Park, custom developed by SimonNotSus. BloxWorld's administrative system takes the form of a Discord bot (Coming Soon), Roblox module, and administrative web panel (Coming soon).
+BloxyBay's administrative system is one of the features that help run the Park, custom developed by SimonNotSus. BloxWorld's administrative system takes the form of a Discord bot (Coming Soon), Roblox module, and administrative web panel (Coming soon).
 
 ### Commands
 {: .text-red-300 }
@@ -53,7 +53,7 @@ Depending on the role, you will only be able to perform certain commands. For ex
 {: .no_toc }
 When executing commands, you must take care to ensure you are doing it correctly. 
 
-* BloxWorld's administrative system allows you to run a command by typing "/e" in front of a command. 
+* BloxyBay's administrative system allows you to run a command by typing "/e" in front of a command. 
   * To run a command privately with the "/e" method, you need to first open up the chat to run a command like you usually would. Before running the command, however, you need to type "/e."
     * EX:  **_/e :m Hello!_**
   * This will make the command private, and this hidden from the chat. 
