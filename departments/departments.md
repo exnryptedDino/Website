@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # Departments
-BloxWorld Departments aren't setup, check back later!
+BloxyBay Departments aren't setup, check back later!
