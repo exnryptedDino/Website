@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Alliance Form Requirements, Expectations, and Link
-Thank you for wanting to ally with BloxWorld! Before you continue, please read our requirements, expectations, and other information.
+Thank you for wanting to ally with BloxyBay! Before you continue, please read our requirements, expectations, and other information.
 
 ## Requirements
 {: .text-red-300 } 
@@ -19,12 +19,12 @@ Thank you for wanting to ally with BloxWorld! Before you continue, please read o
 ## Expectations
 {: .text-red-300 } 
 - Your group’s representatives must remain professional.
-- Your group’s high ranked staff members should be utilizing grammar and acting professional whenever visiting BloxWorld.
+- Your group’s high ranked staff members should be utilizing grammar and acting professional whenever visiting BloxyBay.
 
 ## Other
 {: .text-red-300 }
-- If your group's alliance was terminated by BloxWorld, you must wait a minimum time period of **1** month before reapplying.
-- If your group was blacklisted from becoming an affiliate by BloxWorld, contact an SHR for further details.
+- If your group's alliance was terminated by BloxyBay, you must wait a minimum time period of **1** month before reapplying.
+- If your group was blacklisted from becoming an affiliate by BloxyBay, contact an SHR for further details.
 
 ## Link
 {: .text-red-300 } 
