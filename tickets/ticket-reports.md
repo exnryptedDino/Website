@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in BloxWorld to report various punishments, reports, and more. Below, you fill find acceptable and nonacceptable reasons to make a ticket.
+Tickets are used in BloxyBay to report various punishments, reports, and more. Below, you fill find acceptable and nonacceptable reasons to make a ticket.
 
 **Note:**
 {:.text-red-000} 
