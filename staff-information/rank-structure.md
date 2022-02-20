@@ -6,7 +6,7 @@ nav_order: 5
 ---
 # Rank Structure
 {: .no_toc }
-Here you will find all the ranks offered at BloxWorld!
+Here you will find all the ranks offered at BloxyBay!
 
 ## Table of contents
 {: .no_toc .text-delta }
