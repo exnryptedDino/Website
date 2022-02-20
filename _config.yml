@@ -1,4 +1,4 @@
-title: BloxWorld | Community Information Portal
+title: BloxyBay | Community Information Portal
 description: A hub for all things BloxWorld
 baseurl: "/"
 url: ""
@@ -11,13 +11,13 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
   "Group":
-    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+    - "https://www.roblox.com/groups/14118208/BloxyBay#!/about"
   "Store":
-    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+    - "In Development"
   "Training Center":
-    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+    - "In Development"
   "Quiz Center":
-    - "https://www.roblox.com/groups/13841758/BloxWorld-Corporation#!/about"
+    - "In Development"
 
 color_scheme: dark
 
