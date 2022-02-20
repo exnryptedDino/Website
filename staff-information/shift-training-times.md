@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Shift & Training Times
-Here you will find all session times that occur at BloxWorld and the Training Center.
+Here you will find all session times that occur at BloxyBay and the Training Center.
 
 | Shift Times | 
 |:------------| 
