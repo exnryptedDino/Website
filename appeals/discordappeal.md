@@ -19,7 +19,7 @@ All information regarding Discord appeals can be found here! Before you fill out
 - Complaining about your appeal being declined will result in further consequences.
 - You are only allowed **1** appeal per banned account.
 - You cannot appeal for another person other than yourself.
-- This form can only be used for appealing bans on the BloxWorld communications server.
+- This form can only be used for appealing bans on the BloxyBay communications server.
 
 ## Link 
 {: .text-red-300 }
