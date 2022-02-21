@@ -1,4 +1,4 @@
-title: BloxyBay | Community Information Portal
+title: BloxyBay | Information Portal
 description: A hub for all things BloxyBay
 baseurl: "/"
 url: ""
@@ -11,7 +11,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
   "Group":
-    - "https://www.roblox.com/groups/14118208/BloxyBay#!/about"
+    - "https://www.roblox.com/groups/14118208/"
   "Store":
     - "In Development"
   "Training Center":
